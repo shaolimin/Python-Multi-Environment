@@ -1,5 +1,6 @@
-# Python-Multi-Environment
-二、Python多环境安装
+Python多环境安装
+
+2017-07-03 邵利民 平庸的逆袭
  一、安装python   
 首先我们需要安装两个环境，我这里面安装的是python2.7.13，python3.5.1,正常安装完两个环境
 二、配置环境变量
